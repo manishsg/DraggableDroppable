@@ -1,0 +1,33 @@
+{
+  "name": "draggable-list-and-droppable-list",
+  "version": "1.0.0",
+  "description": "Example based on https://react-spectrum.adobe.com/react-spectrum/dnd.html",
+  "keywords": [
+    "react-spectrum",
+    "drag-and-drop"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@adobe/react-spectrum": "^3.18.0",
+    "@spectrum-icons/illustrations": "3.5.3",
+    "@spectrum-icons/workflow": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
